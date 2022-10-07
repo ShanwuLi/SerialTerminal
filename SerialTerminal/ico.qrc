@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../ico/help.ico</file>
+        <file>../ico/serial.ico</file>
+        <file>../ico/setting.ico</file>
+        <file>../ico/skin.ico</file>
+    </qresource>
+</RCC>

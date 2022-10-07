@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/serialhelp.o
+release/serialsetting.o
+release/serialskin.o
+release/qrc_ico.o
+release/qrc_img.o
+release/moc_mainwindow.o
+release/moc_serialhelp.o
+release/moc_serialsetting.o
+release/moc_serialskin.o
