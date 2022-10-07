@@ -1,1 +1,1 @@
-请删除_V1.1后再使用QT_Creator打开
+this is a serial tool with console!
